@@ -5,4 +5,5 @@
 3. Fish
 4. Tiger
 5. Lion
-6. Cow
+6. Panther
+7. Cow
