@@ -6,4 +6,4 @@
 4. Tiger
 5. Lion
 6. Panther
-
+7. Cow
